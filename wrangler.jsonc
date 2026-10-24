@@ -1,4 +1,5 @@
 {
+  // Debe ser IGUAL al nombre del Worker en el panel de Cloudflare.
   "name": "carolinarojo",
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./public" }
